@@ -1,4 +1,4 @@
-# Melty Blood Actress Again Current Code Remote Code Execution
+# Melty Blood Actress Again Current Code v1.07 Rev. 1.4.0 Remote Code Execution
 
 Injects arbitrary code into a client's game.
 
